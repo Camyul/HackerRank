@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27004.2008
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A Very Big Sum", "A Very Big Sum\A Very Big Sum.csproj", "{F0060E14-9B0E-4C0C-9986-0760FC4621C0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A Very Big Sum", "A Very Big Sum\A Very Big Sum.csproj", "{F0060E14-9B0E-4C0C-9986-0760FC4621C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Extra Long Factorials", "Extra Long Factorials\Extra Long Factorials.csproj", "{04C109F6-66BA-44BE-B9A1-8F6955A262F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Queen's Attack II", "Queen's Attack II\Queen's Attack II.csproj", "{7D56CEDF-77C4-4021-9618-7FC15A7271C6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{F0060E14-9B0E-4C0C-9986-0760FC4621C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F0060E14-9B0E-4C0C-9986-0760FC4621C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F0060E14-9B0E-4C0C-9986-0760FC4621C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04C109F6-66BA-44BE-B9A1-8F6955A262F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04C109F6-66BA-44BE-B9A1-8F6955A262F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04C109F6-66BA-44BE-B9A1-8F6955A262F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04C109F6-66BA-44BE-B9A1-8F6955A262F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D56CEDF-77C4-4021-9618-7FC15A7271C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D56CEDF-77C4-4021-9618-7FC15A7271C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D56CEDF-77C4-4021-9618-7FC15A7271C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D56CEDF-77C4-4021-9618-7FC15A7271C6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
