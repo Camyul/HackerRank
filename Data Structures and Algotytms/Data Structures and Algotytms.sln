@@ -9,7 +9,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Extra Long Factorials", "Ex
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Queen's Attack II", "Queen's Attack II\Queen's Attack II.csproj", "{7D56CEDF-77C4-4021-9618-7FC15A7271C6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Plus Minus", "Plus Minus\Plus Minus.csproj", "{EF5D9118-4A8C-4951-90AA-CA855749C89E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Plus Minus", "Plus Minus\Plus Minus.csproj", "{EF5D9118-4A8C-4951-90AA-CA855749C89E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diagonal Difference", "Diagonal Difference\Diagonal Difference.csproj", "{7621DC1F-48A7-4DC9-A64A-238E77FC5EFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Queen's Attack II v2", "Queen's Attack II v2\Queen's Attack II v2.csproj", "{AE358832-4732-40C7-9CB6-E3075218E5A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Staircase", "Staircase\Staircase.csproj", "{672CF6EC-A459-4B89-BF77-9DF3710A1A0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recursive Digit Sum", "Recursive Digit Sum\Recursive Digit Sum.csproj", "{1388BBCF-63A0-46CB-9679-BAF563E88970}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +41,22 @@ Global
 		{EF5D9118-4A8C-4951-90AA-CA855749C89E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EF5D9118-4A8C-4951-90AA-CA855749C89E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EF5D9118-4A8C-4951-90AA-CA855749C89E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7621DC1F-48A7-4DC9-A64A-238E77FC5EFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7621DC1F-48A7-4DC9-A64A-238E77FC5EFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7621DC1F-48A7-4DC9-A64A-238E77FC5EFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7621DC1F-48A7-4DC9-A64A-238E77FC5EFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE358832-4732-40C7-9CB6-E3075218E5A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE358832-4732-40C7-9CB6-E3075218E5A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE358832-4732-40C7-9CB6-E3075218E5A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE358832-4732-40C7-9CB6-E3075218E5A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{672CF6EC-A459-4B89-BF77-9DF3710A1A0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{672CF6EC-A459-4B89-BF77-9DF3710A1A0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{672CF6EC-A459-4B89-BF77-9DF3710A1A0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{672CF6EC-A459-4B89-BF77-9DF3710A1A0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1388BBCF-63A0-46CB-9679-BAF563E88970}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1388BBCF-63A0-46CB-9679-BAF563E88970}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1388BBCF-63A0-46CB-9679-BAF563E88970}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1388BBCF-63A0-46CB-9679-BAF563E88970}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
