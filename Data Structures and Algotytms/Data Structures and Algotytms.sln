@@ -11,13 +11,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Queen's Attack II", "Queen'
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Plus Minus", "Plus Minus\Plus Minus.csproj", "{EF5D9118-4A8C-4951-90AA-CA855749C89E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diagonal Difference", "Diagonal Difference\Diagonal Difference.csproj", "{7621DC1F-48A7-4DC9-A64A-238E77FC5EFA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Diagonal Difference", "Diagonal Difference\Diagonal Difference.csproj", "{7621DC1F-48A7-4DC9-A64A-238E77FC5EFA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Queen's Attack II v2", "Queen's Attack II v2\Queen's Attack II v2.csproj", "{AE358832-4732-40C7-9CB6-E3075218E5A1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Queen's Attack II v2", "Queen's Attack II v2\Queen's Attack II v2.csproj", "{AE358832-4732-40C7-9CB6-E3075218E5A1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Staircase", "Staircase\Staircase.csproj", "{672CF6EC-A459-4B89-BF77-9DF3710A1A0B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Staircase", "Staircase\Staircase.csproj", "{672CF6EC-A459-4B89-BF77-9DF3710A1A0B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recursive Digit Sum", "Recursive Digit Sum\Recursive Digit Sum.csproj", "{1388BBCF-63A0-46CB-9679-BAF563E88970}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Recursive Digit Sum", "Recursive Digit Sum\Recursive Digit Sum.csproj", "{1388BBCF-63A0-46CB-9679-BAF563E88970}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Birthday Cake Candles", "Birthday Cake Candles\Birthday Cake Candles.csproj", "{A6764F03-ED12-4F22-8BFE-41CC2707EE3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Divisible Sum Pairs", "Divisible Sum Pairs\Divisible Sum Pairs.csproj", "{88AA397E-1930-45BF-A241-7FFB29B31580}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +61,14 @@ Global
 		{1388BBCF-63A0-46CB-9679-BAF563E88970}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1388BBCF-63A0-46CB-9679-BAF563E88970}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1388BBCF-63A0-46CB-9679-BAF563E88970}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6764F03-ED12-4F22-8BFE-41CC2707EE3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6764F03-ED12-4F22-8BFE-41CC2707EE3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6764F03-ED12-4F22-8BFE-41CC2707EE3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6764F03-ED12-4F22-8BFE-41CC2707EE3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88AA397E-1930-45BF-A241-7FFB29B31580}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88AA397E-1930-45BF-A241-7FFB29B31580}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88AA397E-1930-45BF-A241-7FFB29B31580}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88AA397E-1930-45BF-A241-7FFB29B31580}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
